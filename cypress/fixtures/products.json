@@ -1,0 +1,11 @@
+{
+  "name": "Thingy",
+  "type": "thing",
+  "price": 1000000000,
+  "shipping": 12345,
+  "upc": "it's a upc thing",
+  "description": "Thingy for different things",
+  "manufacturer": "Thingy ™️",
+  "model": "Thingy Model Z",
+  "url": "https://www.urbandictionary.com/define.php?term=thingy"
+}
