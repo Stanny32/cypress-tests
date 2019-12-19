@@ -43,7 +43,7 @@
     "sequelize": "^3.24.8",
     "serve-favicon": "^2.3.0",
     "sqlite3": "^4.1.1",
-    "superagent": "^2.3.0",
+    "superagent": "^5.0.2",
     "swagger-ui": "^3.23.11",
     "swagger-ui-express": "^1.0.1",
     "winston": "^2.2.0"
