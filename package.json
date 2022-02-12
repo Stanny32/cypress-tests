@@ -24,7 +24,7 @@
     "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
   "dependencies": {
-    "ajv": "^4.8.2",
+    "ajv": "^6.12.3",
     "body-parser": "^1.15.2",
     "compression": "^1.6.2",
     "cors": "^2.7.1",
